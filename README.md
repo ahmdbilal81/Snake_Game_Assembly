@@ -5,10 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Snake%20Game-Assembly%208088-red) ![Static Badge](https://img.shields.io/badge/Nasm-Dosbox-blue)
 
 
-<title>Snake Game Clone</title>
-
-
-<h1>Snake Game Clone</h1>
+<h2>Snake Game Clone</h2>
 
 <p>Welcome to the Snake Game Clone project! This is a classical game, and in this project, I have created a clone of the iconic Snake Game.</p>
 
