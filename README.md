@@ -28,7 +28,9 @@
 <li>After compilation, write file Name and hit enter</li>
 
 <p align="center">
-  <img src="https://github.com/ahmdbilal81/Snake_Game_Assembly/assets/138764971/031d9b9d-200a-4a9f-82b1-3ef720959916" />
+<br>
+<br>
+<img src="https://github.com/ahmdbilal81/Snake_Game_Assembly/assets/138764971/031d9b9d-200a-4a9f-82b1-3ef720959916" />
 </p>
 </ol>        
 <br>
