@@ -26,6 +26,9 @@
 <pre><code>nasm filename.asm -o filename.com</code></pre>
         
 <li>After compilation, write file Name and hit enter</li>
+
+![ss](https://github.com/ahmdbilal81/Snake_Game_Assembly/assets/138764971/031d9b9d-200a-4a9f-82b1-3ef720959916)
+
         
 
 <li>Start playing the Snake Game! Use the arrow keys to control the snake and try to eat as much food as possible without colliding with the walls or yourself.</li>
