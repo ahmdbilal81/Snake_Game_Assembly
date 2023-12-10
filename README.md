@@ -27,12 +27,13 @@
         
 <li>After compilation, write file Name and hit enter</li>
 
-![ss](https://github.com/ahmdbilal81/Snake_Game_Assembly/assets/138764971/031d9b9d-200a-4a9f-82b1-3ef720959916)
+<p align="center">
+  <img src="https://github.com/ahmdbilal81/Snake_Game_Assembly/assets/138764971/031d9b9d-200a-4a9f-82b1-3ef720959916" />
+</p>
+</ol>        
+<br>
+Start playing the Snake Game! Use the arrow keys to control the snake and try to eat as much food as possible without colliding with the walls or yourself.
 
-        
-
-<li>Start playing the Snake Game! Use the arrow keys to control the snake and try to eat as much food as possible without colliding with the walls or yourself.</li>
-</ol>
 
 <p>Feel free to explore the code, make improvements, and have fun!</p>
 
