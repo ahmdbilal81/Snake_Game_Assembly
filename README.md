@@ -18,6 +18,10 @@
 <ol>
 <li>Download nasm and doxbox</li>
 <li>Place the asm file in the same folder</li>
+<li>Run Dosbox and write</li>
+<pre><code>mount c: (path to that folder)</code></pre>
+<pre><code>c:</code></pre>
+
 <li>Write</li>
 <pre><code>nasm filename.asm -o filename.com</code></pre>
         
